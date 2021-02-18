@@ -1,11 +1,14 @@
 # Welcome to 102
+
 ## this part was added on the cloud
+
+### but this part was added from a local machine
 
 1. HTML
 2. CSS
-2. JS
+3. JS
 
-- [x] @yahyaalbashar, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] @yahyaalbashar, #refs, **formatting** supported
 - [ ] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
